@@ -55,6 +55,7 @@ Cada botão deve ser conectado entre **GPIO e GND**, utilizando
   Verde      GP21
   Azul       GP22
 
+![Depois de pronto](images/streamdeck.jpg)
 ------------------------------------------------------------------------
 
 ## 🎮 Comandos enviados
